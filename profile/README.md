@@ -4,8 +4,8 @@ Building developer tools, systems software, and experimental projects.
 
 ## Projects
 
-* **CortexCLI** — CLI interface for interacting with LLMs and remote providers
-* **RizzLang** — Experimental programming language
+* **CortexCLI** — CLI interface for interacting with LLMs and remote providers (In prog)
+* **RizzLang** — Experimental programming language (currently on halt)
 
 ## Philosophy
 
