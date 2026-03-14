@@ -6,6 +6,7 @@ Building developer tools, systems software, and experimental projects.
 
 * **CortexCLI** — CLI interface for interacting with LLMs and remote providers (In prog)
 * **RizzLang** — Experimental programming language (currently on halt)
+* **Gitpulse** — CLI tool to track and analyze activity across multiple Git repositories.
 
 ## Philosophy
 
